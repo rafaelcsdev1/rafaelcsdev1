@@ -2,6 +2,14 @@
 
 Desenvolvedor Front-End em formação | HTML • CSS • JavaScript  
 Focado em construção de interfaces modernas, responsivas e organizadas.
+
+## Projeto em Destaque
+
+### 🔹 Clone Yu-gi-oh!
+Breve descrição do que o projeto faz em 1 ou 2 linhas.
+
+🔗 Repositório: https://github.com/rafaelcsdev1/NOME-DO-REPO  
+🌐 Deploy: [https://link-do-projeto.com](https://rafaelcsdev1.github.io/projeto-clone-yu-gi-oh/)
     
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
