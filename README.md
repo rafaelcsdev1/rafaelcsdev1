@@ -8,7 +8,7 @@ Focado em construção de interfaces modernas, responsivas e organizadas.
 ### 🔹 Clone Yu-gi-oh!
 Página intuitiva. O usuário pode trocar as cartas clicando nas setas e alternar para modo de defesa ou ataque clicando nas cartas. Projeto feito com HTML, CSS e JS.
 
-🔗 Repositório: [Link do repositório](https://github.com/rafaelcsdev1/projeto-clone-yu-gi-oh)
+🔗 Repositório: [Link do repositório](https://github.com/rafaelcsdev1/projeto-clone-yu-gi-oh) <br>
 🌐 Deploy: [Link do projeto](https://rafaelcsdev1.github.io/projeto-clone-yu-gi-oh/)
     
 <div style="display: inline_block"><br>
