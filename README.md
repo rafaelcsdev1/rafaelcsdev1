@@ -17,8 +17,6 @@ Página intuitiva. O usuário pode trocar as cartas clicando nas setas e alterna
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
  
-<br>
- 
 ### Para me conhecer siga minhas redes sociais abaixo!
  
 <div>
